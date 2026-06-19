@@ -1,0 +1,11 @@
+{
+  "acoes": [
+    {"id": "ACAO-001", "unidade": "HOPE", "medico": "Dr. Manoel", "acao": "Estruturar estratégia específica para pacientes Unimed glaucoma", "responsavel": "Operações / Médico", "prioridade": "Média", "status": "Não iniciado"},
+    {"id": "ACAO-002", "unidade": "HOPE", "medico": "Dr. Manoel", "acao": "Revisar configuração da agenda mista", "responsavel": "Operações", "prioridade": "Alta", "status": "Não iniciado"},
+    {"id": "ACAO-003", "unidade": "HOPE", "medico": "Dr. Manoel", "acao": "Criar perfil de pacientes 50+", "responsavel": "Call Center / Operações", "prioridade": "Média", "status": "Não iniciado"},
+    {"id": "ACAO-004", "unidade": "CBV", "medico": "Dr. Diego Leite", "acao": "Estruturação de agenda de Plástica Ocular", "responsavel": "Operações", "prioridade": "Alta", "status": "Não iniciado"},
+    {"id": "ACAO-005", "unidade": "V1 SP", "medico": "Dr. Moacyr Campos", "acao": "Implementar novo script de telefonia", "responsavel": "Call Center", "prioridade": "Alta", "status": "Concluído"},
+    {"id": "ACAO-006", "unidade": "HRO", "medico": "Dr. Guilherme Palácio", "acao": "Definir cronograma de cirurgias", "responsavel": "Operações", "prioridade": "Alta", "status": "Em andamento"},
+    {"id": "ACAO-007", "unidade": "SANTA LUZIA", "medico": "Dra. Elisa Martins", "acao": "Revisar protocolos de atendimento", "responsavel": "Médico", "prioridade": "Média", "status": "Não iniciado"}
+  ]
+}
